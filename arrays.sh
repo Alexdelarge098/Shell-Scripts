@@ -7,4 +7,4 @@ read -a names
 
 #Enter the array values 
 
-echo "names are ${names[0]} ${names[1]}" 
+echo "names are ${names[0]} ${names[1]} ${names[2]}" 
